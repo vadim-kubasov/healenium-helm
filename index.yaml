@@ -21,4 +21,18 @@ entries:
     urls:
     - https://github.com/vadim-kubasov/healenium-helm/releases/download/demo-chart-test-0.3.0/demo-chart-test-0.3.0.tgz
     version: 0.3.0
-generated: "2024-07-24T15:22:18.784861765Z"
+  healenium:
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: "2024-07-24T16:07:07.736890653Z"
+    description: Healenium Helm chart for Kubernetes
+    digest: fbda1a382c794231ba8580f9eb7fc861f76117ec17666d800e812c5e070cca67
+    keywords:
+    - healenium
+    name: healenium
+    sources:
+    - https://github.com/politico/infra-healenium-helm
+    urls:
+    - https://github.com/vadim-kubasov/healenium-helm/releases/download/healenium-0.1.0/healenium-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-07-24T16:07:07.736925878Z"
